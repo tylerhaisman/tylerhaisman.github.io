@@ -6,6 +6,11 @@
     font-family: 'Exo 2', sans-serif;
     scroll-behavior: smooth;
 }
+@media(max-width: 600px){
+  *{
+    zoom: 98%;
+  }
+}
 .header{
     min-height: 100vh;
     width: 100%;
